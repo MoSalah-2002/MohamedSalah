@@ -13,10 +13,6 @@ Building intelligent systems powered by Machine Learning, Deep Learning, NLP, an
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+Developer;NLP+Engineer;Speech+Processing+Enthusiast;FastAPI+Developer;Deep+Learning+Researcher" />
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MoSalah-2002&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 <hr>
 
