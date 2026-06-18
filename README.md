@@ -70,5 +70,5 @@
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/mohamedsalah2002/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mohamedsalah2002/)
 - Email: midosalah2002@gmail.com
